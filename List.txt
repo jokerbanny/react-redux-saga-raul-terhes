@@ -1,0 +1,11 @@
+- create Posts component
+- create Type & action PostAction 
+- create postReducer
+- create api
+- create postsSaga
+- create saga & export default
+- create reducer & export to store
+- create file store & setup code & export default to index.js
+- import {getPosts, addPost} from 'actions/postsAction' to Posts component
+    & set function button for getPosts & function addPost
+- The End Learning Redux-Saga
